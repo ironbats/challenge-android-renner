@@ -10,6 +10,9 @@
 <p>Kotlin if you prefer</p>
 <p></p>
 
+<h2>Layouts:</h2>
+<p>You can use the APP renner layout as default, if you prefer. =)</p>
+<p></p>
 <h1>Create the following pages with layouts of your choice.</h1>
 
 
@@ -37,6 +40,13 @@
 <br>
 
 <h1>IMPORTANT :</h1>
+
+What are we going to analyze:
+
+* Beautiful and creative layouts.
+* Navigation.
+* Screen features.
+  
 
 <h2> After completing the test, send your github link to the emails below.. </h2>
 <ul>
